@@ -1,0 +1,9 @@
+---
+one:
+  oneA: A
+  oneB:
+    oneB1: '1'
+    oneB2: '2'
+two:
+  - twoA
+  - twoB
